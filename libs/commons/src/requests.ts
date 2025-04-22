@@ -1,0 +1,3 @@
+class RequestToGRPC {}
+
+export { RequestToGRPC };
