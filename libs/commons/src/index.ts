@@ -4,3 +4,4 @@
 
 export * from './http-responses';
 export * from './mappers';
+export * from './requests';
